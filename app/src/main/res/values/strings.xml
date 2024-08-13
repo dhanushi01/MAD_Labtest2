@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BusMateSL</string>
+
+    <string name="key_features_1">See Your Bus Live – Stay Updated with Real-Time Tracking!</string>
+    <string name="key_features_2">Find Out How Much Your Ride Costs – Easy Fare Info at a Glance!</string>
+
+    <string name="landing_page">Explore Timely and Comfortable Bus Rides</string>
+    <string name="landing_page_btn">Get Started</string>
+
+    <string name="how_it_works">HOW IT WORKS</string>
+    <string name="how_it_works_para1">Track buses in real time to see estimated arrival times.</string>
+    <string name="how_it_works_para2">Search for buses based on routes and get information about  schedules.</string>
+    <string name="how_it_works_para3">Calculate the fare fo<string name="signup_page1">Register</string>r your journey </string>
+    <string name="how_it_works_para4">View the real-time number of passengers on each bus</string>
+
+    <string name="signup_page">Discover a Smarter Way to Travel…</string>
+    <string name="signup_page1">Register</string>
+    <string name="signup_page2">Username</string>
+    <string name="signup_page3">Email</string>
+    <string name="signup_page4">Password</string>
+    <string name="signup_page5">Confirm Password</string>
+    <string name="signup_page6">Sign up</string>
+    <string name="signup_page7">Enter username</string>
+    <string name="signup_page8">Enter email</string>
+
+    <string name="home_page">Welcome, Dhanu</string>
+    <string name="home_page1">Bus No:</string>
+    <string name="home_page2">Bus Name: </string>
+    
+    <string name="profile_page">Hi, Dhanu</string>
+    <string name="profile_page1">Edit Profile</string>
+    <string name="profile_page2">Delete Profile</string>
+    <string name="profile_page3">My Details</string>
+    <string name="profile_page4">Name:</string>
+    <string name="profile_page5">Email:</string>
+    <string name="profile_page6">Username:</string>
+    <string name="profile_page7">Password:</string>
+    <string name="profile_page8">Popular Bus Routes:</string>
+
+    <string name="schedule_page">BUS SCHEDULES</string>
+    <string name="schedule_page1">BUS</string>
+    <string name="schedule_page2">Search routes</string>
+    <string name="schedule_page3">Calculate fare</string>
+    <string name="schedule_page4">Don’t know what bus to take?</string>
+    <string name="schedule_page5">Your location: </string>
+    <string name="schedule_page6">Destination: </string>
+
+    <string name="tracker_page">BUS TRACKER </string>
+    <string name="tracker_page1">Reg No: </string>
+    <string name="tracker_page2">Passenger Board Count: </string>
+    <string name="tracker_page3">Time Of Reach: </string>
+
+</resources>
